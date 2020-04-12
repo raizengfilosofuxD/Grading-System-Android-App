@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.windows7.itonatalagalordthankyou.StudentActivty">
+
+    <LinearLayout
+
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID:"
+            android:textStyle="bold"
+            android:paddingRight="10dp"/>
+        <TextView
+            android:id="@+id/txt_studID1"
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2000044818"
+
+            android:paddingRight="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name:  "
+            android:paddingRight="10dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txt_LastName1"
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sangalang "/>
+        <TextView
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=", "/>
+        <TextView
+            android:id="@+id/txt_FirstName1"
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:paddingRight="5dp"
+            android:text="Raizen John"/>
+        <TextView
+            android:id="@+id/txt_MiddleName1"
+            android:textSize="5.5pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agapito"/>
+    </LinearLayout>
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="10dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="REPORT CARD"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="English: "/>
+        <TextView
+            android:id="@+id/et_English1"
+            android:layout_width="1in"
+
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Mathematics: "/>
+        <TextView
+            android:id="@+id/et_Math1"
+            android:layout_width="1in"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="Science and Technology: "/>
+        <TextView
+            android:id="@+id/et_SciTech1"
+            android:layout_width="1in"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Social Studies: "/>
+        <TextView
+            android:id="@+id/et_SocialScience1"
+            android:layout_width="1in"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Filipino: "/>
+        <TextView
+            android:id="@+id/et_Filipino1"
+            android:layout_width="1in"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+>
+
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <TextView
+
+            android:layout_width="100dp"
+            android:textStyle="bold"
+            android:layout_height="match_parent"
+            android:text="GENERAL AVERAGE: "/>
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/et_GenAverage"
+            android:layout_width="1in"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</LinearLayout>
+
