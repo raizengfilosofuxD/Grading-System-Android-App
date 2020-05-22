@@ -17,7 +17,7 @@ the organize system and data security and good mathematical computation of algor
 
 # MOBILE APPLICATION PLAN FOR THE ILS
 
-## 1. Introduction
+## 1. Introduction to the system
 GradeIt the grading system for all teacher of the Values Education Department of
 Angeles City National High School. This grading system is a new component in their
 Department and it will be the way of recording of the grade of the student because of the
