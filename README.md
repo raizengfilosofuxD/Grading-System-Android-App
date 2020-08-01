@@ -6,7 +6,7 @@ This application is easy to use and the concept of User Interface is based from 
 and updated UI and UX (user experience). This concept is basically based from the IT
 Industry and the app is inspired from the most voted and trusted application in the
 Google Play Store.
-
+<!--fdfdfd-->
 This grading system has a log in activity and registration activity. The user of this
 application is the teacher. The user can add, update and delete student. It can add,
 delete and update the grading concept of the application. This application has also
