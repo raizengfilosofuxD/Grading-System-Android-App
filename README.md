@@ -8,7 +8,7 @@ Industry and the app is inspired from the most voted and trusted application in 
 Google Play Store.
 <!--fdfdfd-->
 This grading system has a log in activity and registration activity. The user of this
-application is the teacher. The user can add, update and delete student. It can add,
+application is the teacher. The user can add, update and delete studenkkkkt. It can add,
 delete and update the grading concept of the application. This application has also
 security to ensure the safeties of the grades.
 The advantage of this system is that it ensures the synchronization of the data. It
